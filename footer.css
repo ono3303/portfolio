@@ -1,0 +1,36 @@
+
+.footer{
+    background-color: rgb(63,67,74);
+    text-align: center;
+}
+.about8{
+    margin-top: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.about8-contents ul{
+    margin-top:50px ;
+    display: flex;
+    justify-content: space-between;
+}
+.about8-contents li a{
+    color:white;
+    font-family: serif;
+    font-size: 13px;
+    margin-right:60px;
+}
+
+.sns{
+    margin-top: 30px;
+    margin-left:50px;
+}
+.sns img{
+    width:60px;
+}
+.last{
+    font-size: 12px;
+    margin-top: 180px;
+    padding-bottom: 100px;
+    color:rgb(136,139,143);
+}

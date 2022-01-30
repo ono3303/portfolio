@@ -1,0 +1,89 @@
+.vase{
+    width: 100%;
+    display: flex;
+    margin-top: 0px;
+    font-family: serif;
+}
+.about3{
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 0px;
+    text-align: center;
+    background-color: rgb(231,227,223);
+}
+.simple{
+    font-size:25px;
+    padding-top:20px;
+    font-family: serif;
+}
+.twenty-five{
+    display: inline;
+    background-color: white;
+    font-size: 15px;
+    font-family: serif;
+    font-weight: bold;
+    padding: 5px 8px;
+    line-height: 0.3cm;
+}
+.vase-contents{
+    margin: 80px auto 0 auto;
+}
+.vase-contents p{
+    font-size:15px;
+    display: inline-block;
+    text-align: left;
+}
+.vase-img{
+    display: flex;
+    justify-content: center;
+   }
+.vase-kind{
+    margin-right:30px;
+    position: relative;
+  }
+
+.vase-kind img{
+    width:100px;
+    height:120px;
+}
+.vase-kind p{
+    position: absolute;
+    top:60%;
+    left:30%;
+    font-size: 15px;
+    font-family: serif;
+    text-align: center;
+
+}
+
+.order{
+   display:inline-flex;
+   text-align: center;
+   padding-bottom: 0px;
+
+}
+
+.period p{
+    display: inline-block;
+    border:  1px solid #333;;
+    font-size: 12px;
+    font-family: serif;
+    font-weight: 700;
+    padding:15px 15px ;
+}
+.order-price{
+    text-align: left;
+    line-height: 0.3cm;
+    padding-top:20px;
+    margin-left: 10px;
+    font-size:15px ;
+    font-family: serif;
+}
+.place{
+   font-size: 12px;
+   margin-left: 0px;
+}
+.flower-img{
+    padding-top: 0px;
+    height:800px;
+}

@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;  
+    clear: left;
+    font-size: 100%;
+    font-family:"Noto Sans JP", sans-serif; 
+    }
+html{
+    height: auto;
+    max-width: auto;
+}
+a{
+    text-decoration: none;
+    color: #000;
+    font-family: serif;
+}  
+a:hover {
+        opacity: .5;
+        transition: .3s;
+    }
+img {
+    max-width: 100%;
+}
+
+li{
+    list-style: none;
+}
+.loading {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    background: black;
+    z-index: 99; }
+  
+  .loading-1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: load 1s ease-in-out forwards infinite; }
+  
+  @keyframes load {
+    from,to {
+      opacity: 0; }
+    100% {
+      opacity: .5; } }
+.one{
+    background-image: url(img/top.jpg);
+    background-size: cover;
+    background-position:bottom center;
+    
+   
+}
+
+.toptitle{
+    justify-content: center;
+    text-align: center;
+    padding-top:140px;
+}
+.toptitle img{
+    width: 150px;
+    height:150px;
+}
+.toptitle p{
+    font-size: 20px;
+    color:white;
+    font-weight:bold;
+}
+
+.apuli{
+    margin-top: 200px;
+    text-align: center;
+}
+.apuli img{
+    height:40px;
+    margin-right: 10px;
+    justify-content: space-between;
+}
+.area{
+    margin-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}

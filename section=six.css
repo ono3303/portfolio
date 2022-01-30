@@ -1,0 +1,32 @@
+.about6{
+    margin: 0 auto 40px auto;
+    width: 80%;
+}
+.about6 h6{
+    font-size: 25px;
+    font-family: serif;
+    text-align: center;
+    margin-top: 100px;
+}
+.service{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 100%;
+}
+.icon{
+    height: 60px;
+
+}
+.contents6{
+    font-size: 22px;
+    font-family: serif;
+    font-weight: 600px;
+}
+.explain{
+    display: block;
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: serif;
+}
+

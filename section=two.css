@@ -1,0 +1,44 @@
+.threeimg{
+    display: flex;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.threeimg h1{
+    margin-left:40px ;
+    text-align: left;
+    font-size: 24px;
+    font-weight: bold;
+    font-family:serif;
+    color: white;
+}
+.threeimg p{
+    margin-left:40px ;
+    text-align: left;
+    font-size: 15px;
+    font-family:serif;
+    color: white;
+}
+
+.send-flower{
+    background-image: url("img/send.jpg");
+    background-size: cover;
+    background-position:bottom center;
+    width: 33.3%;
+    height:600px;
+}
+.post-in{
+    background-image: url("img/post.jpg");
+    background-size: cover;
+    background-position:bottom center;
+    width: 33.3%;
+    height:600px;
+}
+.flower-decorate{
+    background-image: url("img/decorate.jpg");
+    background-size: cover;
+    background-position:bottom center;
+    width: 33.3%;
+    height:600px;
+}
+

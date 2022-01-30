@@ -1,0 +1,221 @@
+
+@media screen and (max-width: 970px) {
+
+.top {
+    padding: 15px 20px;
+  }
+
+  .pagehead img {
+    height: 40px;
+    float: left;
+  }
+
+  .header-icon {
+    display: block;
+    font-size: 28px;
+  }
+
+  .migiue {
+    display: none;
+  }
+
+  .header-title {
+    font-size: 24px;
+  }
+
+  .oshirase {
+    padding-top: 90px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .title2 {
+    font-size: 24px;
+    margin-bottom: 0px;
+  }
+  .naiyou {
+    margin-top: 0;
+    max-width: 100%;
+  }
+
+  .naiyou li {
+    display: block;
+    margin-bottom: 15px;
+    font-size: 13px;
+  }
+
+  .sekouzirei {
+    padding: 50px 20px;
+  }
+
+  .title3 {
+    font-size: 24px;
+    margin-bottom: 0px;
+  }
+
+  .syashin {
+    margin-top: 30px;
+    flex-direction: column;
+  }
+
+  .twoimg {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  /*  3つのmenu*/
+  .threeimg{
+    flex-flow: column;
+    width: 100%;
+  }
+  .threeimg img {
+    width: 100%;
+  }
+  .send-flower h1,.post-in h1,.flower-decorate h1{
+    font-size: 30px;
+    font-weight: bold;
+   }
+  .send-flower,.post-in,.flower-decorate{
+    width: 100%;
+  }
+  .price h2{
+    font-size: 24px;
+  }
+  
+   /*  2つのmenu*/
+.vase{
+  flex-flow: column;
+  flex-direction: column-reverse;
+  width: 100%;
+  
+}
+.about3{
+  width: 100%;
+  margin:0px;
+}
+.about3 img{
+  width: 100%;
+}
+.twenty-five{
+  display: block;
+}
+  .twoimag img {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+ 
+  .link {
+    margin-top: 0px;
+  }
+
+  .syousai img {
+    margin-top: 0;
+  }
+
+  .company {
+    padding-top: 50px;
+    flex-direction: column;
+  }
+
+  .threeimg {
+    width: 100%;
+  }
+  .threeimg img {
+    width: 100%;
+  }
+
+.shita{
+    padding-top: 60px;
+    margin-bottom: 30px;
+    flex-direction: column-reverse;
+  }
+  .hidarishita {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    flex-direction: column-reverse;
+  }
+  .hidarishita ul {
+    flex-direction: column;
+  }
+
+  .hidarishita li{
+    margin-bottom: 30px;
+    text-align: center;
+
+  }
+ .copyright {
+    text-align: center;
+    color: #ffffff;
+    font-size: 10px;
+    padding-top: 20px;
+    padding-left: 50px;
+  }
+.folower-img{
+  object-fit: cover;
+}
+.vase-kind img{
+  height: 100px;
+}
+.vase-kind{
+  text-align: center;
+
+}
+.vase-kind p{
+  left: 15%;
+}
+.order-price{
+  text-align: left;
+}
+.price-1{
+  line-height: 15px;
+  margin-top: 5px;
+}
+.price-2{
+  line-height: 15px;
+}
+.period p{
+ padding: 15px 5px;
+ font-size: 15px;
+}
+
+/*サービス*/
+.about7-logo{
+  margin-right:10%
+  }
+.service{
+    flex-wrap:wrap;
+    justify-content: center;
+  }
+/*フッダー*/
+.about8-contents ul{
+  flex-flow: column;
+  text-align: left;
+}
+.about8-contents li  {
+  margin-top: 15px;
+}
+.about8-contents li a {
+  font-size: 20px;
+  font-weight:bold;
+}
+}
+@media screen and (max-width: 670px) {
+ .send-flower h1,.post-in h1,.flower-decorate h1{
+  font-size: 24px;
+  font-weight: bold;
+ }
+  .about8-contents li a{
+    font-size: 15px;
+}
+.about7{
+  flex-flow:column;
+  flex-direction: column-reverse;
+}
+.about7-logo{
+  text-align: center;
+}
+.sumaho{
+  text-align: center;
+}
+}
+

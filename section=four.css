@@ -1,0 +1,43 @@
+.how-flower{
+    display: flex;
+    margin-top: 0px;
+}
+
+
+.about2{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(234,213,220);
+}
+.about2 img{
+    padding-top:80px;
+}
+
+.about2 h3{
+    padding-top:80px ;
+    font-size:24px;
+    font-family: serif;
+    font-weight: bold;
+}
+.contents{
+    margin-top: 50px;
+    margin-bottom: 50px;
+   }
+.contents-about{
+    line-height: 0.5cm;
+}
+.contents-title{
+    font-size:22px;
+    font-style: normal;
+    font-family:serif;
+    font-weight:400px ;
+}
+.text{
+    font-size: 15px;
+    font-family: serif;
+    display: inline-block;
+    text-align: left;
+}
+
+
